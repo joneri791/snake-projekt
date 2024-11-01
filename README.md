@@ -3,11 +3,7 @@
 <h1 align="center">Привет всем! Меня зовут Семён!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-
-
-
-![image](https://github.com/AlexeyVodopyanov/The_snake/assets/106692645/e1e02316-758f-4d4a-a4c1-6774432ca3e5)
-
+Проект Изгиб питона для Яндекс практикума
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="380" height="260"/>
